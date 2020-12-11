@@ -4,12 +4,12 @@ package Edhesive.Unit_5;
 import java.lang.StringBuilder;
 import java.util.Scanner;
 
-public class U5_L2_Activity_Two{
+public class U5_L2_Activity_Two {
 
- public static void reverser(String str){
-   StringBuilder strb = new StringBuilder();
-   strb.append(str);
-   strb.reverse();
-   System.out.println(strb);
- }
+  public static void reverser(String str) {
+    StringBuilder strb = new StringBuilder();
+    strb.append(str);
+    strb.reverse();
+    System.out.println(strb);
+  }
 }

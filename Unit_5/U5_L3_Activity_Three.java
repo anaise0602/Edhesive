@@ -5,9 +5,9 @@ package Edhesive.Unit_5;
 import java.util.Scanner;
 import edhesive.shapes.*;
 
-public class U5_L3_Activity_Three{
-  public static void updateRadius(Circle c, int i){
+public class U5_L3_Activity_Three {
+  public static void updateRadius(Circle c, int i) {
     c.setRadius(i);
-    
+
   }
 }

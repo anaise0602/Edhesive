@@ -4,9 +4,9 @@ package Edhesive.Unit_5;
 
 import java.util.Scanner;
 
-public class U5_L2_Activity_Three{
+public class U5_L2_Activity_Three {
 
-  public static void swap(int i, double d){
+  public static void swap(int i, double d) {
     System.out.println(d + " " + i);
   }
 }

@@ -5,9 +5,9 @@ package Edhesive.Unit_5;
 import java.util.Scanner;
 import edhesive.shapes.*;
 
-public class U5_L3_Activity_One{
+public class U5_L3_Activity_One {
 
-  public static void makeSquare(Rectangle r){
+  public static void makeSquare(Rectangle r) {
     r.setWidth(r.getLength());
   }
 }

@@ -16,7 +16,7 @@ public class Fraction {
     }
 
     public Fraction(int n, int d) {
-        
+
         total++;
         setNumerator((n > 0 ? n : 1));
         setDenominator((d > 0 ? d : 1));

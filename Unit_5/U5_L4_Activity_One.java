@@ -5,10 +5,10 @@ package Edhesive.Unit_5;
 import java.util.Scanner;
 import edhesive.shapes.*;
 
-public class U5_L4_Activity_One{
+public class U5_L4_Activity_One {
 
- public static double areaSum(Circle c1, Circle c2){
-   return c1.getArea()+c2.getArea();
-   
- }
+  public static double areaSum(Circle c1, Circle c2) {
+    return c1.getArea() + c2.getArea();
+
+  }
 }
