@@ -27,7 +27,7 @@ public class Assignment4 {
                     wrd += str.charAt(i);
                 }
             } else {
-                // add the first letter of the word to new string, cuold probably
+                // add the first letter of the word to new string, could probably
                 // be done another way
                 wrd += str.charAt(i);
             }
@@ -49,7 +49,7 @@ public class Assignment4 {
             // start new counter for each letter
             count = 0;
             curChar = message.charAt(i);
-            // if curent char isnt in the new message
+            // if current char isn't in the new message
             if (newString.indexOf(curChar) == -1) {
                 // loop through message and see if there are anymore of the same chars
                 for (int x = 0; x < message.length(); x++) {

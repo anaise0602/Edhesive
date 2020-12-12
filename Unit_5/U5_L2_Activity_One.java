@@ -2,8 +2,6 @@ package Edhesive.Unit_5;
 
 /* Lesson 2 Coding Activity Question 1 */
 
-import java.util.Scanner;
-
 public class U5_L2_Activity_One {
 
   public static void monthName(int val) {
